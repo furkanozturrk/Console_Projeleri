@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\Fibonacci\obj\Debug\Fibonacci.pdb

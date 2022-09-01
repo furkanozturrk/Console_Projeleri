@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YılzdızŞekilleri3\bin\Debug\YılzdızŞekilleri3.exe.config
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YılzdızŞekilleri3\bin\Debug\YılzdızŞekilleri3.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YılzdızŞekilleri3\bin\Debug\YılzdızŞekilleri3.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YılzdızŞekilleri3\obj\Debug\YılzdızŞekilleri3.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YılzdızŞekilleri3\obj\Debug\YılzdızŞekilleri3.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YılzdızŞekilleri3\obj\Debug\YılzdızŞekilleri3.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YılzdızŞekilleri3\obj\Debug\YılzdızŞekilleri3.pdb

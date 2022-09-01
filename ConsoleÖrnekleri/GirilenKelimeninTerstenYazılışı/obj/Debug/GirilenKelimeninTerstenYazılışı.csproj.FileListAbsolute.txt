@@ -1,0 +1,6 @@
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirilenKelimeninTerstenYazılışı\bin\Debug\GirilenKelimeninTerstenYazılışı.exe.config
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirilenKelimeninTerstenYazılışı\bin\Debug\GirilenKelimeninTerstenYazılışı.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirilenKelimeninTerstenYazılışı\bin\Debug\GirilenKelimeninTerstenYazılışı.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirilenKelimeninTerstenYazılışı\obj\Debug\GirilenKelimeninTerstenYazılışı.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirilenKelimeninTerstenYazılışı\obj\Debug\GirilenKelimeninTerstenYazılışı.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirilenKelimeninTerstenYazılışı\obj\Debug\GirilenKelimeninTerstenYazılışı.pdb

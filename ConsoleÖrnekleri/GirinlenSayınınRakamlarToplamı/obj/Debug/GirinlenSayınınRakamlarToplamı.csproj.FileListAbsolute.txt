@@ -1,0 +1,6 @@
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirinlenSayınınRakamlarToplamı\bin\Debug\GirinlenSayınınRakamlarToplamı.exe.config
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirinlenSayınınRakamlarToplamı\bin\Debug\GirinlenSayınınRakamlarToplamı.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirinlenSayınınRakamlarToplamı\bin\Debug\GirinlenSayınınRakamlarToplamı.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirinlenSayınınRakamlarToplamı\obj\Debug\GirinlenSayınınRakamlarToplamı.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirinlenSayınınRakamlarToplamı\obj\Debug\GirinlenSayınınRakamlarToplamı.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\GirinlenSayınınRakamlarToplamı\obj\Debug\GirinlenSayınınRakamlarToplamı.pdb

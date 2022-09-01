@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\ConsoleÖrnekleri\bin\Debug\ConsoleÖrnekleri.exe.config
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\ConsoleÖrnekleri\bin\Debug\ConsoleÖrnekleri.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\ConsoleÖrnekleri\bin\Debug\ConsoleÖrnekleri.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\ConsoleÖrnekleri\obj\Debug\ConsoleÖrnekleri.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\ConsoleÖrnekleri\obj\Debug\ConsoleÖrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\ConsoleÖrnekleri\obj\Debug\ConsoleÖrnekleri.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\ConsoleÖrnekleri\obj\Debug\ConsoleÖrnekleri.pdb

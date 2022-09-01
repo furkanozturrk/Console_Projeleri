@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YıldızŞekilleri2\bin\Debug\YıldızŞekilleri2.exe.config
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YıldızŞekilleri2\bin\Debug\YıldızŞekilleri2.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YıldızŞekilleri2\bin\Debug\YıldızŞekilleri2.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YıldızŞekilleri2\obj\Debug\YıldızŞekilleri2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YıldızŞekilleri2\obj\Debug\YıldızŞekilleri2.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YıldızŞekilleri2\obj\Debug\YıldızŞekilleri2.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\YıldızŞekilleri2\obj\Debug\YıldızŞekilleri2.csprojAssemblyReference.cache

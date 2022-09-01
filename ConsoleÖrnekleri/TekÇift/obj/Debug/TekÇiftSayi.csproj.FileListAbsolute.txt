@@ -1,0 +1,6 @@
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\TekÇift\bin\Debug\TekÇift.exe.config
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\TekÇift\bin\Debug\TekÇift.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\TekÇift\bin\Debug\TekÇift.pdb
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\TekÇift\obj\Debug\TekÇiftSayi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\TekÇift\obj\Debug\TekÇift.exe
+C:\Users\Furkan\Desktop\ConsoleÖrnekleri\ConsoleÖrnekleri\TekÇift\obj\Debug\TekÇift.pdb
