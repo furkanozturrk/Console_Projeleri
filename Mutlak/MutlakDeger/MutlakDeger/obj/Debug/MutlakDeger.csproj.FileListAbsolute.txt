@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\Yeni klasör (2)\Mutlak\MutlakDeger\MutlakDeger\bin\Debug\MutlakDeger.exe.config
+C:\Users\Furkan\Desktop\Yeni klasör (2)\Mutlak\MutlakDeger\MutlakDeger\bin\Debug\MutlakDeger.exe
+C:\Users\Furkan\Desktop\Yeni klasör (2)\Mutlak\MutlakDeger\MutlakDeger\bin\Debug\MutlakDeger.pdb
+C:\Users\Furkan\Desktop\Yeni klasör (2)\Mutlak\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Yeni klasör (2)\Mutlak\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Yeni klasör (2)\Mutlak\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.exe
+C:\Users\Furkan\Desktop\Yeni klasör (2)\Mutlak\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.pdb
